@@ -2,5 +2,5 @@ print("Hello world!")
 print("Good bye!")
 
 
-def foo():
+def foo2():
     print("Foo")
